@@ -13,7 +13,7 @@ This repository contains a script for an automated deployment pipeline using Jen
 1. Clone this repository to your local machine:
 
 ```shell
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/danielsantoslgo/Automated-Deployment-Pipeline
 ```
 
 2. Set up Jenkins and ensure you have an agent available to execute the pipeline.
